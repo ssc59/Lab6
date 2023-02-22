@@ -4,4 +4,4 @@
 
 # In the second part of the exercise, I am asking the user to input their age and then printing a message saying " 
 
-
+name=input("Enter your name:")
